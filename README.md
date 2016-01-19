@@ -1,1 +1,1 @@
-# milton-and-small
+Milton & Small
