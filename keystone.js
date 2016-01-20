@@ -21,7 +21,7 @@ keystone.init({
 	'view engine': 'jade',
 
 	'emails': 'templates/emails',
-
+	'mongo': "mongodb://localhost/milton-and-small",
 	'auto update': true,
 	'session': true,
 	'auth': true,
